@@ -11,8 +11,6 @@ A real-time sign language recognition system using deep learning and computer vi
 - Dataset
 - Model Architecture
 - Requirements
-- Contributing
-- License
 
 ## 🎯 Overview
 
@@ -145,16 +143,6 @@ Key dependencies include:
 - MediaPipe/CVZone - Hand tracking (if applicable)
 
 See `requirements.txt` for complete list of dependencies.
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 👨‍💻 Author
 
