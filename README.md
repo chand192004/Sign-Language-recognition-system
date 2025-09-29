@@ -3,16 +3,16 @@
 A real-time sign language recognition system using deep learning and computer vision to detect and interpret sign language gestures.
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Requirements](#requirements)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview]
+- [Features]
+- [Project Structure]
+- [Installation]
+- [Usage]
+- [Dataset]
+- [Model Architecture]
+- [Requirements]
+- [Contributing]
+- [License]
 
 ## 🎯 Overview
 
