@@ -156,24 +156,8 @@ Contributions are welcome! Here's how you can help:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👨‍💻 Author
 
 **Chand** - [@chand192004](https://github.com/chand192004)
 
-## 🙏 Acknowledgments
 
-- Sign language community for gesture references
-- Open-source computer vision libraries
-- Contributors and testers
-
-## 📧 Contact
-
-For questions or feedback, please open an issue on GitHub or contact the repository owner.
-
----
-
-⭐ If you find this project useful, please consider giving it a star!
